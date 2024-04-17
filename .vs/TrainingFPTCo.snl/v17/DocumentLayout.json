@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP-MVC-Net-8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\models\\queries\\accountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\models\\queries\\accountquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\views\\account\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\views\\account\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\views\\account\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\views\\account\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\datadbcontext\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\datadbcontext\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\datadbcontext\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\datadbcontext\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\models\\queries\\rolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\models\\queries\\rolequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\dbcontext\\rolesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\dbcontext\\rolesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\models\\accountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\helpers\\uploadfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\helpers\\uploadfilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|d:\\asp-mvc-net-8\\trainingfptco\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BE7C9B-0B63-442C-9448-CA48390545C1}|TrainingFPTCo\\TrainingFPTCo.csproj|solutionrelative:trainingfptco\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Views\\Account\\Add.cshtml",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Views\\Account\\Add.cshtml",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Views\\Account\\Add.cshtml",
+              "RelativeToolTip": "TrainingFPTCo\\Views\\Account\\Add.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAACgAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:22:19.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "TrainingFPTCo\\Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:17:48.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Program.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Program.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Program.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:51:49.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\DataDBContext\\Roles.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\DataDBContext\\Roles.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\DataDBContext\\Roles.cs",
+              "RelativeToolTip": "TrainingFPTCo\\DataDBContext\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:58:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:57:30.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountQuery.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\Queries\\AccountQuery.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Models\\Queries\\AccountQuery.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\Queries\\AccountQuery.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Models\\Queries\\AccountQuery.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAgwEwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:54:53.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Views\\Account\\Update.cshtml",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Views\\Account\\Update.cshtml",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Views\\Account\\Update.cshtml",
+              "RelativeToolTip": "TrainingFPTCo\\Views\\Account\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T12:24:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:53:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\DataDBContext\\Users.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\DataDBContext\\Users.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\DataDBContext\\Users.cs",
+              "RelativeToolTip": "TrainingFPTCo\\DataDBContext\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:54:04.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleQuery.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\Queries\\RoleQuery.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Models\\Queries\\RoleQuery.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\Queries\\RoleQuery.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Models\\Queries\\RoleQuery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:54:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountViewModel.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\AccountViewModel.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Models\\AccountViewModel.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\AccountViewModel.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Models\\AccountViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:54:48.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RolesDBContext.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\DBContext\\RolesDBContext.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\DBContext\\RolesDBContext.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\DBContext\\RolesDBContext.cs",
+              "RelativeToolTip": "TrainingFPTCo\\DBContext\\RolesDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:56:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:57:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadFileHelper.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Helpers\\UploadFileHelper.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Helpers\\UploadFileHelper.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Helpers\\UploadFileHelper.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Helpers\\UploadFileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:54:22.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TrainingFPTCo\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\ASP-MVC-Net-8\\TrainingFPTCo\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TrainingFPTCo\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:54:08.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
